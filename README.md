@@ -1,1 +1,1 @@
-# Lexicon_ItAnt
+# Lexicon_ItAnt  is licensed under CC-BY-NC-SA
